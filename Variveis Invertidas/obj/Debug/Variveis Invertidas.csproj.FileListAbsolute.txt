@@ -1,0 +1,7 @@
+C:\Users\Sarah\source\repos\Variveis Invertidas\Variveis Invertidas\bin\Debug\Variveis Invertidas.exe.config
+C:\Users\Sarah\source\repos\Variveis Invertidas\Variveis Invertidas\bin\Debug\Variveis Invertidas.exe
+C:\Users\Sarah\source\repos\Variveis Invertidas\Variveis Invertidas\bin\Debug\Variveis Invertidas.pdb
+C:\Users\Sarah\source\repos\Variveis Invertidas\Variveis Invertidas\obj\Debug\Variveis Invertidas.csproj.CoreCompileInputs.cache
+C:\Users\Sarah\source\repos\Variveis Invertidas\Variveis Invertidas\obj\Debug\Variveis Invertidas.exe
+C:\Users\Sarah\source\repos\Variveis Invertidas\Variveis Invertidas\obj\Debug\Variveis Invertidas.pdb
+C:\Users\Sarah\source\repos\Variveis Invertidas\Variveis Invertidas\obj\Debug\Variveis Invertidas.csprojAssemblyReference.cache
